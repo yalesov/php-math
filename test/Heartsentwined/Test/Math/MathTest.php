@@ -2,7 +2,6 @@
 namespace Heartsentwined\Test\Math;
 
 use Heartsentwined\Math\Math;
-use Heartsentwined\Math\Exception;
 
 class MathTest extends \PHPUnit_Framework_TestCase
 {
