@@ -11,7 +11,7 @@ A collection of math functions.
 ```json
 {
     "require": {
-        "yalesov/math": "1.*"
+        "yalesov/math": "2.*"
     }
 }
 ```
