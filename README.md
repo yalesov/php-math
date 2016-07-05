@@ -1,6 +1,6 @@
 # Yalesov\Math
 
-[![Build Status](https://secure.travis-ci.org/yalesov/math.png)](http://travis-ci.org/yalesov/math)
+[![Build Status](https://travis-ci.org/yalesov/php-math.svg)](https://travis-ci.org/yalesov/php-math)
 
 A collection of math functions.
 
