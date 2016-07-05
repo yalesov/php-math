@@ -10,9 +10,9 @@ A collection of math functions.
 
 ```json
 {
-    "require": {
-        "yalesov/math": "2.*"
-    }
+  "require": {
+    "yalesov/math": "2.*"
+  }
 }
 ```
 
