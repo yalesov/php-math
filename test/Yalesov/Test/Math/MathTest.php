@@ -1,7 +1,7 @@
 <?php
-namespace Heartsentwined\Test\Math;
+namespace Yalesov\Test\Math;
 
-use Heartsentwined\Math\Math;
+use Yalesov\Math\Math;
 
 class MathTest extends \PHPUnit_Framework_TestCase
 {

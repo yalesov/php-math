@@ -1,7 +1,7 @@
 <?php
-namespace Heartsentwined\Math;
+namespace Yalesov\Math;
 
-use Heartsentwined\ArgValidator\ArgValidator;
+use Yalesov\ArgValidator\ArgValidator;
 
 class Math
 {

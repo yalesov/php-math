@@ -1,7 +1,7 @@
 <?php
-namespace Heartsentwined\Math\Exception;
+namespace Yalesov\Math\Exception;
 
-use Heartsentwined\Math\ExceptionInterface;
+use Yalesov\Math\ExceptionInterface;
 
 class InvalidArgumentException
     extends \InvalidArgumentException

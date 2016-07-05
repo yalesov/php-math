@@ -1,23 +1,31 @@
 {
-    "name": "heartsentwined/math",
+    "name": "yalesov/math",
     "description": "A collection of math functions.",
-    "license": "GPL-3.0",
     "keywords": ["math"],
-    "homepage": "https://github.com/heartsentwined/math",
     "authors": [
         {
-            "name": "heartsentwined",
-            "email": "heartsentwined@cogito-lab.com",
-            "role": "Developer"
+            "name": "Yulij Andreevich Lesov",
+            "email": "yalesov@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-0": {
-            "Heartsentwined\\Math": "src/"
-        }
-    },
     "require": {
         "php": ">=5.3.3",
-        "heartsentwined/arg-validator": "1.*"
+        "yalesov/arg-validator": "1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Yalesov\\Math": "src/"
+        }
+    },
+    "license": "ISC",
+    "homepage": "https://github.com/yalesov/php-math",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yalesov/php-math"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/yalesov/php-math/issues"
     }
 }

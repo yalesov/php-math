@@ -1,6 +1,6 @@
-# Heartsentwined\Math
+# Yalesov\Math
 
-[![Build Status](https://secure.travis-ci.org/heartsentwined/math.png)](http://travis-ci.org/heartsentwined/math)
+[![Build Status](https://secure.travis-ci.org/yalesov/math.png)](http://travis-ci.org/yalesov/math)
 
 A collection of math functions.
 
@@ -11,7 +11,7 @@ A collection of math functions.
 ```json
 {
     "require": {
-        "heartsentwined/math": "1.*"
+        "yalesov/math": "1.*"
     }
 }
 ```
@@ -23,7 +23,7 @@ A collection of math functions.
 Round a `$number` up to a certain `$precision`:
 
 ```php
-use Heartsentwined\Math\Math;
+use Yalesov\Math\Math;
 Math::roundUp($number, $precision);
 ```
 
@@ -37,6 +37,6 @@ Math::roundUp($number, $precision);
 Get the number of decimal places:
 
 ```php
-use Heartsentwined\Math\Math;
+use Yalesov\Math\Math;
 $dp = Math::getDecimalPlace(0.123456789); // $dp = 9
 ```

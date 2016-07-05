@@ -1,5 +1,5 @@
 <?php
-namespace Heartsentwined\Math;
+namespace Yalesov\Math;
 
 interface ExceptionInterface
 {
